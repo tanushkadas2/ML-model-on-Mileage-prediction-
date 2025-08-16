@@ -9,9 +9,3 @@ The ultimate goal is to provide actionable insights that can help manufacturers 
 # Linear Regression
 
 Linear regression is a statistical method used to model and analyze the relationships between a dependent variable and one or more independent variables. It is one of the simplest and most widely used algorithms in machine learning and statistics for predictive modeling.
-# Applications:
-
-Predictive Modeling: Used to predict outcomes such as sales, prices, and trends.
-Trend Analysis: Identifying trends and relationships in data.
-Risk Management: Assessing risk factors and their impact on outcomes.
-Economics and Finance: Forecasting economic indicators and financial performance.
